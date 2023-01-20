@@ -1,0 +1,12 @@
+C:\Users\EM\source\repos\pasvitaslab\pasvitaslab\obj\Debug\pasvitaslab.csprojAssemblyReference.cache
+C:\Users\EM\source\repos\pasvitaslab\pasvitaslab\bin\Debug\pasvitaslab.exe.config
+C:\Users\EM\source\repos\pasvitaslab\pasvitaslab\bin\Debug\pasvitaslab.exe
+C:\Users\EM\source\repos\pasvitaslab\pasvitaslab\bin\Debug\pasvitaslab.pdb
+C:\Users\EM\source\repos\pasvitaslab\pasvitaslab\obj\Debug\pasvitaslab.exe
+C:\Users\EM\source\repos\pasvitaslab\pasvitaslab\obj\Debug\pasvitaslab.pdb
+C:\Users\EM\source\repos\ooplab2\pasvitaslab\obj\Debug\pasvitaslab.csprojAssemblyReference.cache
+C:\Users\EM\source\repos\ooplab2\pasvitaslab\obj\Debug\pasvitaslab.exe
+C:\Users\EM\source\repos\ooplab2\pasvitaslab\obj\Debug\pasvitaslab.pdb
+C:\Users\EM\source\repos\ooplab2\pasvitaslab\bin\Debug\pasvitaslab.exe.config
+C:\Users\EM\source\repos\ooplab2\pasvitaslab\bin\Debug\pasvitaslab.exe
+C:\Users\EM\source\repos\ooplab2\pasvitaslab\bin\Debug\pasvitaslab.pdb
